@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactStore/static/css/main.5a3bce01.css",
+    "main.js": "/ReactStore/static/js/main.8cf215cb.js",
+    "static/js/787.ed4a33c1.chunk.js": "/ReactStore/static/js/787.ed4a33c1.chunk.js",
+    "static/media/pexels-photo-343457.jpg": "/ReactStore/static/media/pexels-photo-343457.d1b7bb7997e2b8a54788.jpg",
+    "static/media/pexels-photo-682933.jpg": "/ReactStore/static/media/pexels-photo-682933.67e2b7d75d5aebd5829b.jpg",
+    "static/media/4.png": "/ReactStore/static/media/4.2ad7e9f7614a708ae91e.png",
+    "static/media/pexels-photo-2136243.webp": "/ReactStore/static/media/pexels-photo-2136243.187044e757b535f1872c.webp",
+    "static/media/pexels-photo-306763.jpg": "/ReactStore/static/media/pexels-photo-306763.f6c163bc0249f8012ef5.jpg",
+    "static/media/pexels-photo-777001.webp": "/ReactStore/static/media/pexels-photo-777001.4ad97a02811b29abe47a.webp",
+    "static/media/pexels-photo-2047905.webp": "/ReactStore/static/media/pexels-photo-2047905.07242c98e62e59ef9d5d.webp",
+    "static/media/pexels-photo-792345.webp": "/ReactStore/static/media/pexels-photo-792345.183b6c1cc76396803c65.webp",
+    "static/media/pexels-photo-341523.webp": "/ReactStore/static/media/pexels-photo-341523.7acf3aa6d516a0340f38.webp",
+    "index.html": "/ReactStore/index.html",
+    "main.5a3bce01.css.map": "/ReactStore/static/css/main.5a3bce01.css.map",
+    "main.8cf215cb.js.map": "/ReactStore/static/js/main.8cf215cb.js.map",
+    "787.ed4a33c1.chunk.js.map": "/ReactStore/static/js/787.ed4a33c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3bce01.css",
+    "static/js/main.8cf215cb.js"
+  ]
+}
