@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Realme",
+        "price": 6000,
+        "imgUrl": "/images/pic1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "oppo",
+        "price": 8000,
+        "imgUrl": "/images/pic1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "iphone",
+        "price": 16000,
+        "imgUrl": "/images/pic1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Laptop",
+        "price": 24000,
+        "imgUrl": "/images/pic4.jpg"
+    }
+]
